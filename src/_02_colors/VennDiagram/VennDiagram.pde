@@ -1,1 +1,14 @@
 size(600,600);
+noStroke();
+fill(#FF0000, 175);
+ellipse (300, 310, 60, 60);
+fill(#1E8B2F, 175);
+ellipse (275, 275, 60, 60);
+fill(#0024FF, 175);
+ellipse (325, 275, 60, 60);
+textSize(15);
+fill(#000000);
+text("Fun", 287, 310);
+text("Work", 255, 275);
+textSize(12);
+text("Family", 305, 275);
